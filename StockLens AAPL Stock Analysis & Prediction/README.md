@@ -6,7 +6,7 @@
 
 ### Explanation of Sections
 
-- **Project Overview**: Briefly explains the purpose and technologies.
+- **Project Overview**: Briefly explain the purpose and technologies.
 - **Features**: Describes key components of your project.
 - **Installation**: Instructions for setting up the project locally.
 - **Usage**: Provides guidance on running the project.
