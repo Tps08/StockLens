@@ -1,4 +1,4 @@
-# StockLens : AAPL Stock Analysis & Prediction using LSTM
+# StockLens: AAPL Stock Analysis & Prediction using LSTM
 
 ![image](https://github.com/user-attachments/assets/d27c446a-d642-42c8-9688-0b60282b6038)
 
@@ -6,7 +6,7 @@
 
 ### Explanation of Sections
 
-- **Project Overview**: Briefly explains the purpose and technologies.
+- **Project Overview**: Briefly explain the purpose and technologies.
 - **Features**: Describes key components of your project.
 - **Installation**: Instructions for setting up the project locally.
 - **Usage**: Provides guidance on running the project.
